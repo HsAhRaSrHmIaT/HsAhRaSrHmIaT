@@ -39,6 +39,8 @@
   <img width="10" />
   <a href="https://react.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  /></a>
   <img width="10" />
+  <a href="https://kubernetes.io/docs/home/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" height="30" alt="react logo"  /></a>
+  <img width="10" />
   <a href="https://git-scm.com/doc"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  /></a>
   <img width="10" />
   <a href="https://dev.mysql.com/doc/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  /></a>
