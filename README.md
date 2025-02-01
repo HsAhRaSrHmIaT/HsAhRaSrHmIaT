@@ -33,13 +33,23 @@
   <img width="10" />
   <a href="https://cplusplus.com/doc/tutorial/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  /></a>
   <img width="10" />
+  <a href="https://www.gnu.org/software/bash/manual/bash.html"><img src="https://github.com/bregman-arie/devops-resources/blob/master/images/bash.png" height="32" alt="bash logo"  /></a>
+  <img width="10" />
   <a href="https://docs.djangoproject.com/en/5.1/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  /></a>
   <img width="10" />
-  <a href="https://flask.palletsprojects.com/en/3.0.x/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  /></a>
-  <img width="10" />
+  <a href="https://flask.palletsprojects.com/en/3.0.x/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="32" alt="flask logo" /></a>
+  <img width="12" />
   <a href="https://react.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  /></a>
   <img width="10" />
-  <a href="https://kubernetes.io/docs/home/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" height="30" alt="react logo"  /></a>
+  <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  /></a>
+  <img width="10" />
+  <a href="https://kubernetes.io/docs/home/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" height="30" alt="kubernetes logo"  /></a>
+  <img width="10" />
+  <a href="https://docs.docker.com/"><img src="https://github.com/bregman-arie/devops-resources/blob/master/images/docker.png" height="28" alt="docker logo"  /></a>
+  <img width="10" />
+  <a href="https://www.jenkins.io/doc/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="30" alt="jenkins logo"  /></a>
+  <img width="10" />
+  <a href="https://developer.hashicorp.com/terraform/docs"><img src="https://github.com/bregman-arie/devops-resources/blob/master/images/terraform.png" height="30" alt="terraform logo"  /></a>
   <img width="10" />
   <a href="https://git-scm.com/doc"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  /></a>
   <img width="10" />
