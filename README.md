@@ -48,11 +48,11 @@
   <img width="5" />
   <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/"><img src="https://skillicons.dev/icons?i=bootstrap" height="34" alt="bootstrap logo"  /></a>
   <img width="5" />
-  <a href=""><img src="https://skillicons.dev/icons?i=tailwind" height="34" alt="tailwind logo"  /></a>
+  <a href="https://v2.tailwindcss.com/docs"><img src="https://skillicons.dev/icons?i=tailwind" height="34" alt="tailwind logo"  /></a>
   <img width="5" />
-  <a href=""><img src="https://skillicons.dev/icons?i=nodejs" height="34" alt="node logo"  /></a>
+  <a href="https://nodejs.org/api/all.html"><img src="https://skillicons.dev/icons?i=nodejs" height="34" alt="node logo"  /></a>
   <img width="5" />
-  <a href=""><img src="https://skillicons.dev/icons?i=express" height="34" alt="express logo"  /></a>
+  <a href="https://expressjs.com/en/guide/routing.html"><img src="https://skillicons.dev/icons?i=express" height="34" alt="express logo"  /></a>
   <img width="5" />
   <a href="https://kubernetes.io/docs/home/"><img src="https://skillicons.dev/icons?i=kubernetes" height="34" alt="kubernetes logo"  /></a>
   <img width="5" />
@@ -62,7 +62,7 @@
   <img width="5" />
   <a href="https://dev.mysql.com/doc/"><img src="https://skillicons.dev/icons?i=mysql" height="34" alt="mysql logo"  /></a>
   <img width="5" />
-  <a href=""><img src="https://skillicons.dev/icons?i=mongodb" height="34" alt="mongodb logo"  /></a>
+  <a href="https://www.mongodb.com/docs/"><img src="https://skillicons.dev/icons?i=mongodb" height="34" alt="mongodb logo"  /></a>
   <img width="5" />
   <a href="https://docs.anaconda.com/"><img src="https://skillicons.dev/icons?i=anaconda" height="34" alt="anaconda logo"  /></a>
   <img width="5" />
