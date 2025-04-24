@@ -3,7 +3,7 @@
 ## 🔥About Me:
 - 🗿 I'm a programmer passionate about building impactful solutions
 - 😊 Pronouns: He/Him
-- 🌱 Currently mastering React and Tailwind CSS
+- 🌱 Currently mastering Node.js and Express.js
 - 💻 Diving deep into Data Structures & Algorithms
 - 🚀 Looking to collaborate on web development projects
 - 💡 Interested in full-stack development (especially Backend)
