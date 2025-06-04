@@ -87,7 +87,7 @@
 
 ## 📈Activity Graph:
 
-<img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=hsahrasrhmiat&theme=react-dark&color=008080&line=008080&point=008080&hide_border=true" />
+<img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=hsahrasrhmiat&bg_color=0d1117&color=00c647&line=00c647&point=8bde9a&area=true&area_color=50c878&hide_border=true" />
 
 ## 🐍Contributions:
 
