@@ -1,4 +1,4 @@
-<div align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=apple-system&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hello+World!;My+name+is+Harshit+Sharma!;I%27m+a+Full+Stack+Developer!;Welcome+to+my+GitHub+profile!;Let%27s+connect!" height="80" />
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=apple-system&pause=1500&color=d1d9e0&center=true&vCenter=true&width=435&lines=Hello+World!;My+name+is+Harshit+Sharma!;I%27m+a+Full+Stack+Developer!;Welcome+to+my+GitHub+profile!;Let%27s+connect!" height="80" />
 </div>
 
   
