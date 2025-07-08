@@ -17,7 +17,7 @@
 ## 📊My Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hsahrasrhmiat&show_icons=true&theme=radical&bg_color=00000000&title_color=00FF41&hide_title=true&icon_color=00FF41&text_color=d1d9e0&hide_border=false" height="145" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HsAhRaSrHmIaT&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=github_dark&bg_color=00000000&text_color=d1d9e0&hide_border=false&order=1" height="145" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HsAhRaSrHmIaT&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&bg_color=00000000&text_color=d1d9e0&hide_border=false&order=1" height="145" alt="languages graph"  />
 </div>
 
 ###
