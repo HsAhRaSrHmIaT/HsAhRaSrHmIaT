@@ -5,7 +5,7 @@
 ## 🔥About Me: 
 - 🗿 I'm a programmer passionate about building impactful solutions
 - 😊 Pronouns: He/Him
-- 🌱 Currently mastering Node.js and Express.js
+- 🌱 Currently mastering Next.js and DevOps
 - 💻 Diving deep into Data Structures & Algorithms
 - 🚀 Looking to collaborate on web development projects
 - 💡 Interested in full-stack development (especially Backend)
