@@ -48,8 +48,6 @@
   <img width="5" />
   <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" height="34" alt="react logo"  /></a>
   <img width="5" />
-  <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/"><img src="https://skillicons.dev/icons?i=bootstrap" height="34" alt="bootstrap logo"  /></a>
-  <img width="5" />
   <a href="https://v2.tailwindcss.com/docs"><img src="https://skillicons.dev/icons?i=tailwind" height="34" alt="tailwind logo"  /></a>
   <img width="5" />
   <a href="https://nodejs.org/api/all.html"><img src="https://skillicons.dev/icons?i=nodejs" height="34" alt="node logo"  /></a>
