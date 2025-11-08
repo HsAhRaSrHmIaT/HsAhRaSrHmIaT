@@ -64,11 +64,11 @@
   <img width="5" />
   <a href="https://www.mongodb.com/docs/"><img src="https://skillicons.dev/icons?i=mongodb" height="34" alt="mongodb logo"  /></a>
   <img width="5" />
-  <a href="https://docs.anaconda.com/"><img src="https://skillicons.dev/icons?i=anaconda" height="34" alt="anaconda logo"  /></a>
-  <img width="5" />
   <a href="https://code.visualstudio.com/Docs"><img src="https://skillicons.dev/icons?i=vscode" height="34" alt="vscode logo"  /></a>
   <img width="5" />
   <a href="https://www.jetbrains.com/help/pycharm/quick-start-guide.html"><img src="https://skillicons.dev/icons?i=pycharm" height="34" alt="pycharm logo"  /></a>
+  <!-- <a href="https://docs.anaconda.com/"><img src="https://skillicons.dev/icons?i=anaconda" height="34" alt="anaconda logo"  /></a>
+  <img width="5" /> -->
 </div>
 
 ###
