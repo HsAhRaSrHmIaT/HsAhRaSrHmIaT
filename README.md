@@ -80,7 +80,7 @@
   <a href="mailto:harshitsharma2.04@outlook.com"><img src="https://img.icons8.com/?size=100&id=ut6gQeo5pNqf&format=png&color=000000" height="40" alt="microsoft-outlook logo"  /></a>
   <a href="https://t.me/HsAhRaSrHmIaT"><img src="https://img.icons8.com/?size=100&id=63306&format=png&color=000000" height="40" alt="telegram logo" /></a>
   <a href="https://discordapp.com/users/886296985743798382"><img src="https://img.icons8.com/?size=100&id=M725CLW4L7wE&format=png&color=000000" height="40" alt="discord logo"  /></a>
-  <a href="https://twitter.com/HsAhRaSrHmIaT"><img src="https://img.icons8.com/?size=100&id=ClbD5JTFM7FA&format=png&color=000000" height="40" alt="X logo" /></a>
+  <a href="https://x.com/HsAhRaSrHmIaT"><img src="https://img.icons8.com/?size=100&id=ClbD5JTFM7FA&format=png&color=000000" height="40" alt="X logo" /></a>
 </div>
 
 ###
