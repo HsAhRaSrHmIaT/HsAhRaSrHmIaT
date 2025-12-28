@@ -25,12 +25,9 @@
 <div align="left">
   
   ## 🛠️Languages and Tools:
-   <!--<img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,python,django,flask,mysql,mongodb,bootstrap,tailwind,git,figma,vscode" />-->
-   <!--<a href="https://www.jenkins.io/doc/"><img src="https://skillicons.dev/icons?i=jenkins" height="34" alt="jenkins logo"  /></a>
-  <img width="5" />
-  <a href="https://developer.hashicorp.com/terraform/docs"><img src="https://skillicons.dev/icons?i=terraform" height="34" alt="terraform logo"  /></a>
-  <img width="5" />-->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" height="34" alt="javascript logo"  /></a>
+  <img width="5" />
+  <a href="https://www.typescriptlang.org/docs/"><img src="https://skillicons.dev/icons?i=ts" height="34" alt="typescript logo"  /></a>
   <img width="5" />
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="34" alt="html5 logo"  /></a>
   <img width="5" />
@@ -46,7 +43,11 @@
   <img width="5" />
   <a href="https://flask.palletsprojects.com/en/3.0.x/"><img src="https://skillicons.dev/icons?i=flask" height="34" alt="flask logo" /></a>
   <img width="5" />
+  <a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi" height="34" alt="fastapi logo" /></a>
+  <img width="5" />
   <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" height="34" alt="react logo"  /></a>
+  <img width="5" />
+  <a href="https://nextjs.org/docs"><img src="https://skillicons.dev/icons?i=nextjs" height="34" alt="nextjs logo"  /></a>
   <img width="5" />
   <a href="https://v2.tailwindcss.com/docs"><img src="https://skillicons.dev/icons?i=tailwind" height="34" alt="tailwind logo"  /></a>
   <img width="5" />
@@ -66,7 +67,7 @@
   <img width="5" />
   <a href="https://code.visualstudio.com/Docs"><img src="https://skillicons.dev/icons?i=vscode" height="34" alt="vscode logo"  /></a>
   <img width="5" />
-  <a href="https://www.jetbrains.com/help/pycharm/quick-start-guide.html"><img src="https://skillicons.dev/icons?i=pycharm" height="34" alt="pycharm logo"  /></a>
+  <!-- <a href="https://www.jetbrains.com/help/pycharm/quick-start-guide.html"><img src="https://skillicons.dev/icons?i=pycharm" height="34" alt="pycharm logo"  /></a> -->
   <!-- <a href="https://docs.anaconda.com/"><img src="https://skillicons.dev/icons?i=anaconda" height="34" alt="anaconda logo"  /></a>
   <img width="5" /> -->
 </div>
