@@ -1,8 +1,8 @@
-<div align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=apple-system&pause=1500&color=d1d9e0&center=true&vCenter=true&width=435&lines=Hello+World!;My+name+is+Harshit+Sharma!;I%27m+a+Full+Stack+Developer!;Welcome+to+my+GitHub+profile!;Let%27s+connect!" height="80" />
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=apple-system&pause=1500&color=d1d9e0&center=true&vCenter=true&width=435&lines=Hello+World!;My+name+is+Harshit+Sharma!;I%27m+finding+a+solution!;See+you+another+time!" height="80" />
 </div>
 
   
-## 🔥About Me: 
+<!-- ## 🔥About Me: 
 - 🗿 I'm a programmer passionate about building impactful solutions
 - 😊 Pronouns: He/Him
 - 🌱 Currently mastering Next.js and DevOps
@@ -70,7 +70,7 @@
   <!-- <a href="https://www.jetbrains.com/help/pycharm/quick-start-guide.html"><img src="https://skillicons.dev/icons?i=pycharm" height="34" alt="pycharm logo"  /></a> -->
   <!-- <a href="https://docs.anaconda.com/"><img src="https://skillicons.dev/icons?i=anaconda" height="34" alt="anaconda logo"  /></a>
   <img width="5" /> -->
-</div>
+<!-- </div>
 
 ###
 
