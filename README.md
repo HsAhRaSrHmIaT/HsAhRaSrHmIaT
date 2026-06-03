@@ -1,4 +1,4 @@
-<div align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=apple-system&pause=1500&color=d1d9e0&center=true&vCenter=true&width=435&lines=Hello+World!;My+name+is+Harshit+Sharma!;I%27m+finding+a+solution!;See+you+another+time!" height="80" />
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=apple-system&pause=1500&color=d1d9e0&center=true&vCenter=true&width=435&lines=Hello+World!;My+name+is+Harshit+Sharma!;I%27m++a+full-stack+developer!;I%27m+finding+a+solution!;See+you+another+time!" height="80" />
 </div>
 
   
@@ -19,7 +19,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=hsahrasrhmiat&show_icons=true&theme=radical&bg_color=00000000&title_color=00FF41&hide_title=true&icon_color=00FF41&text_color=d1d9e0&hide_border=false" height="145" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HsAhRaSrHmIaT&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&bg_color=00000000&text_color=d1d9e0&hide_border=false&order=1" height="145" alt="languages graph"  />
 </div> -->
-<div align="left">  
+<div align="center">  
   <img src="https://ghstats.dev/api/card?username=hsahrasrhmiat" alt="GitHub Stats Card" />
   <div>
     <img src="https://ghstats.dev/api/langs?username=hsahrasrhmiat&width=320" alt="Top Languages" />
