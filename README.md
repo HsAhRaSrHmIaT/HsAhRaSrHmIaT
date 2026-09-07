@@ -4,7 +4,7 @@
   
 ## 🔥About Me: 
 - 🗿 I'm a programmer passionate about building impactful solutions
-- ➡️ Currently employed and inworking at IBM (International Business Machines Corporation) IBM (International Business Machines Corporation)
+- ➡️ Currently employed and inworking at IBM (International Business Machines Corporation)
 - 😊 Pronouns: He/Him
 - 🌱 Currently mastering AI
 - 💻 Diving deep into Data Structures & Algorithms
